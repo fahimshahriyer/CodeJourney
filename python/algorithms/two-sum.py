@@ -17,11 +17,11 @@ class Solution(object):
     def twoSum(self, nums, target):
         """
         Args:
-            nums (TYPE): List[int]
-            target (TYPE): int
+            nums : List[int]
+            target : int
 
         Returns:
-            TYPE: List[int]
+            List[int]
         """
 
         lookup = {}
